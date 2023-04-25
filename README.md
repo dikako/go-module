@@ -1,6 +1,6 @@
 # Create go module
 
-## Create tag
+## Create or update tag
 ```bash
 git tag v1.0.0
 git push origin v1.0.0
